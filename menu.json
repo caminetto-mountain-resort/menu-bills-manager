@@ -1,0 +1,162 @@
+[
+  {
+    "category": "bar",
+    "products": [
+      {
+        "name": "caffè",
+        "price": 1.20
+      },
+      {
+        "name": "cappuccino",
+        "price": 1.80
+      },
+      {
+        "name": "the e tisane",
+        "price": 2.80
+      },
+      {
+        "name": "liquori",
+        "price": 5
+      },
+      {
+        "name": "brioches",
+        "price": 1.50
+      },
+      {
+        "name": "dolci",
+        "price": 3.50
+      },
+      {
+        "name": "vino",
+        "price": 3.50
+      },
+      {
+        "name": "bibite",
+        "price": 2.50
+      },{
+        "name": "acqua minerale ½l",
+        "price": 1.50
+      },{
+        "name": "acqua minerale 1l",
+        "price": 2.50
+      },{
+        "name": "spritz",
+        "price": 4
+      }
+    ]
+  },
+  {
+    "category": "ristorante",
+    "products": [
+      {
+        "name": "primo",
+        "price": 11
+      },
+      {
+        "name": "secondo",
+        "price": 17
+      },
+      {
+        "name": "insalatona",
+        "price": 10
+      },
+      {
+        "name": "piatto unico",
+        "price": 22
+      },
+      {
+        "name": "contorno",
+        "price": 7.50
+      },
+      {
+        "name": "menu",
+        "price": 25
+      }
+    ]
+  },
+  {
+    "category": "spa",
+    "products": [
+      {
+        "name": "aromatherapy massage",
+        "price": 50
+      },
+      {
+        "name": "decontratturante schiena",
+        "price": 35
+      },
+      {
+        "name": "massaggio personalizzato",
+        "price": 60
+      },
+      {
+        "name": "lomi lomi",
+        "price": 60
+      },
+      {
+        "name": "linfodrenaggui vooder",
+        "price": 70
+      },
+      {
+        "name": "drenante parziale",
+        "price": 35
+      },
+      {
+        "name": "drenante totale",
+        "price": 55
+      },
+      {
+        "name": "riflessologia plantare",
+        "price": 35
+      },
+      {
+        "name": "massaggio hot stone",
+        "price": 65
+      },
+      {
+        "name": "massaggio bimbo",
+        "price": 30
+      },
+      {
+        "name": "viso, collo e spalle",
+        "price": 30
+      },
+      {
+        "name": "cielo e terra",
+        "price": 35
+      },
+      {
+        "name": "scrub corpo",
+        "price": 55
+      },
+      {
+        "name": "trattamento con bendaggi",
+        "price": 60
+      },
+      {
+        "name": "trattamento alghe body slim",
+        "price": 65
+      },
+      {
+        "name": "purezza profonda",
+        "price": 55
+      },
+      {
+        "name": "idratazione intensa",
+        "price": 50
+      },
+      {
+        "name": "idratazione intensa",
+        "price": 50
+      },
+      {
+        "name": "sublime lift",
+        "price": 50
+      },
+      {
+        "name": "antiage illuminante",
+        "price": 50
+      }
+    ]
+  }
+]

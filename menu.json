@@ -49,6 +49,10 @@
     "category": "ristorante",
     "products": [
       {
+        "name": "coperto",
+        "price": 2
+      },
+      {
         "name": "primo",
         "price": 11
       },
@@ -77,6 +81,22 @@
   {
     "category": "spa",
     "products": [
+      {
+        "name": "kit wellness",
+        "price": 10
+      },
+      {
+        "name": "accappatoio",
+        "price": 7
+      },
+      {
+        "name": "telo",
+        "price": 4
+      },
+      {
+        "name": "ciabatte",
+        "price": 2
+      },
       {
         "name": "aromatherapy massage",
         "price": 50

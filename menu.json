@@ -53,6 +53,18 @@
         "price": 2
       },
       {
+        "name": "lattine",
+        "price": 3
+      },
+      {
+        "name": "acqua",
+        "price": 2,50
+      },
+      {
+        "name": "dessert",
+        "price": 5
+      },
+      {
         "name": "primo",
         "price": 11
       },

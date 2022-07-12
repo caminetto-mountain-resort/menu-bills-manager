@@ -11,6 +11,10 @@
         "price": 2.50
       },
       {
+        "name": "snack",
+        "price": 2.00
+      },
+      {
         "name": "panini",
         "price": 4.50
       },

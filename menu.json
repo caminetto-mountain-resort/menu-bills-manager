@@ -53,6 +53,10 @@
         "price": 2
       },
       {
+        "name": "buffet",
+        "price": 10
+      },
+      {
         "name": "bevande",
         "price": 3
       },

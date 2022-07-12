@@ -7,6 +7,22 @@
         "price": 1.20
       },
       {
+        "name": "birra",
+        "price": 2.50
+      },
+      {
+        "name": "panini",
+        "price": 4.50
+      },
+      {
+        "name": "specialità",
+        "price": 3.50
+      },
+      {
+        "name": "long drink",
+        "price": 5.50
+      },
+      {
         "name": "cappuccino",
         "price": 1.80
       },
@@ -16,7 +32,7 @@
       },
       {
         "name": "liquori",
-        "price": 3
+        "price": 3.50
       },
       {
         "name": "brioches",

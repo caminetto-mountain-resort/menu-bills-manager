@@ -81,6 +81,14 @@
         "price": 12
       },
       {
+        "name": "birra",
+        "price": 3
+      },
+      {
+        "name": "birra media",
+        "price": 5
+      },
+      {
         "name": "bevande",
         "price": 3
       },
@@ -98,7 +106,7 @@
       },
       {
         "name": "secondo",
-        "price": 17
+        "price": 20
       },
       {
         "name": "insalatona",

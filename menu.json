@@ -14,6 +14,11 @@
         "name": "birra",
         "price": 2.50
       },
+     
+      {
+        "name": "aperitivi",
+        "price": 3
+      },
       {
         "name": "snack",
         "price": 2.00

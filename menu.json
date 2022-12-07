@@ -4,7 +4,7 @@
     "products": [
       {
         "name": "caffè",
-        "price": 1.20
+        "price": 1.30
       },
       {
         "name": "birra media",
@@ -37,11 +37,11 @@
       },
       {
         "name": "cappuccino",
-        "price": 1.80
+        "price": 2.00
       },
       {
         "name": "the e tisane",
-        "price": 2.80
+        "price": 3.00
       },
       {
         "name": "liquori/grappe",

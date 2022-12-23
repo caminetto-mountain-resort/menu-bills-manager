@@ -143,16 +143,20 @@
         "price": 21
       },
       {
+        "name": "St. Magdalener select - Rottensteiner",
+        "price": 37
+      },
+      {
         "name": "Kalterersee Auslese - Rottensteiner",
         "price": 19
       },
       {
         "name": "Marzemino Mozart - Concilio",
-        "price": 17
+        "price": 18
       },
       {
         "name": "Marzemino et. bianca - Cantina d'Isera",
-        "price": 17
+        "price": 18
       },
       {
         "name": "Marzemino et. verde - Cantina d'Isera ",
@@ -160,7 +164,7 @@
       },
       {
         "name": "Marzemino Sup. - Maso Salengo",
-        "price": 23
+        "price": 26
       },
       {
         "name": "Teroldego LeAlbere - Zeni",
@@ -195,8 +199,8 @@
         "price": 18
       },
       {
-        "name": "Merlot Riserva - Novaline",
-        "price": 27
+        "name": "Merlot Antica Vigna - Grigoletti",
+        "price": 32
       },
       {
         "name": "Gonzalier - Grigoletti",
@@ -224,7 +228,7 @@
       },
       {
         "name": "Valdadige - Viticoltori di Avio",
-        "price": 18
+        "price": 20
       },
       {
         "name": "San Leonardo",
@@ -240,7 +244,7 @@
       },
       {
         "name": "Barbera - Baracco de Baracho",
-        "price": 18
+        "price": 19
       },
       {
         "name": "Amarone - Brigaldara",
@@ -248,7 +252,7 @@
       },
       {
         "name": "Bardolino - Giovanna Tantini",
-        "price": 17
+        "price": 18
       },
       {
         "name": "Refosco - Tenuta Pinni",
@@ -260,7 +264,7 @@
       },
       {
         "name": "Chianti BIO - La Lastra",
-        "price": 19
+        "price": 20
       },
       {
         "name": "Brunello di Montalcino - Palazzo",
@@ -268,7 +272,7 @@
       },
       {
         "name": "Pinot Noir - Saget La Perrièr",
-        "price": 22
+        "price": 23
       },
       {
         "name": "Bordeaux - Chateau Sainte-Marie",
@@ -284,7 +288,7 @@
       },
       {
         "name": "Sylvaner - Villscheider",
-        "price": 24
+        "price": 26
       },
       {
         "name": "Retiko - Grigoletti",
@@ -315,12 +319,16 @@
         "price": 20
       },
       {
+        "name": "Fil di rose P. Grigio Rose - Mezzocorona",
+        "price": 20
+      },
+      {
         "name": "Pinot Grigio - Concilio",
         "price": 19
       },
       {
         "name": "Pinot Grigio Riserva - Mezzocorona",
-        "price": 24
+        "price": 25
       },
       {
         "name": "Nosiola - Pojer e Sandri",
@@ -356,7 +364,7 @@
       },
       {
         "name": "Bardolino Chiaretto - Giovanna Tantini",
-        "price": 17
+        "price": 18
       },
       {
         "name": "Perlè - Ferrari",
@@ -396,11 +404,11 @@
       },
       {
         "name": "San Martin - Grigoletti",
-        "price": 25
+        "price": 27
       },
       {
-        "name": "Moscato Giallo - Catel Firmian",
-        "price": 22
+        "name": "Castel Beseno Sup. - Cantina di Trento",
+        "price": 27
       },
       {
         "name": "Gewurztraminer Goccia d'oro - Cantina Sociale di Trento",

@@ -136,8 +136,12 @@
         "price": 7.50
       },
       {
+        "name": "menu baby",
+        "price": 10
+      },
+      {
         "name": "menu",
-        "price": 25
+        "price": 30
       }
     ]
   },

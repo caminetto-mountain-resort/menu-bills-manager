@@ -446,18 +446,6 @@
         "price": 10
       },
       {
-        "name": "maori",
-        "price": 65
-      },
-      {
-        "name": "scrub corpo",
-        "price": 40
-      },
-      {
-        "name": "sportivo defaticante",
-        "price": 65
-      },
-      {
         "name": "accappatoio",
         "price": 7
       },
@@ -470,40 +458,44 @@
         "price": 2
       },
       {
+        "name": "maori",
+        "price": 65
+      },
+      {
+        "name": "sportivo defaticante",
+        "price": 60
+      },
+      {
         "name": "aromatherapy massage",
-        "price": 50
-      },
-      {
-        "name": "decontratturante schiena",
-        "price": 35
-      },
-      {
-        "name": "personalizzato",
-        "price": 60
-      },
-      {
-        "name": "lomi lomi",
-        "price": 60
-      },
-      {
-        "name": "linfodrenaggui vooder",
-        "price": 70
-      },
-      {
-        "name": "drenante parziale",
-        "price": 35
-      },
-      {
-        "name": "drenante totale",
         "price": 55
       },
       {
+        "name": "decontratturante schiena o gambe",
+        "price": 40
+      },
+      {
+        "name": "personalizzato",
+        "price": 65
+      },
+      {
+        "name": "lomi lomi",
+        "price": 65
+      },
+      {
+        "name": "drenante parziale",
+        "price": 40
+      },
+      {
+        "name": "drenante totale",
+        "price": 65
+      },
+      {
         "name": "riflessologia plantare",
-        "price": 35
+        "price": 40
       },
       {
         "name": "hot stone",
-        "price": 65
+        "price": 70
       },
       {
         "name": "bimbi",
@@ -511,43 +503,39 @@
       },
       {
         "name": "viso, collo e spalle",
-        "price": 30
+        "price": 40
       },
       {
         "name": "cielo e terra",
-        "price": 35
+        "price": 40
       },
       {
-        "name": "scrub corpo",
+        "name": "esfoliante aromatico",
         "price": 55
       },
       {
-        "name": "leggerezza con bendaggi",
-        "price": 60
-      },
-      {
-        "name": "alghe body slim",
+        "name": "detossinante",
         "price": 65
       },
       {
-        "name": "purezza profonda",
-        "price": 55
+        "name": "rilassante schiena o cervicale",
+        "price": 70
       },
       {
-        "name": "idratazione intensa",
-        "price": 50
+        "name": "liftante intensivo anti age",
+        "price": 70
       },
       {
-        "name": "idratazione intensa",
-        "price": 50
+        "name": "illuminante",
+        "price": 70
       },
       {
-        "name": "sublime lift",
-        "price": 50
+        "name": "idratante multilivello",
+        "price": 60
       },
       {
-        "name": "antiage illuminante",
-        "price": 50
+        "name": "pulizia profonda",
+        "price": 65
       }
     ]
   }

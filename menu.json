@@ -463,7 +463,7 @@
       },
       {
         "name": "maori",
-        "price": 65
+        "price": 70
       },
       {
         "name": "sportivo defaticante",
@@ -522,7 +522,7 @@
         "price": 65
       },
       {
-        "name": "rilassante schiena o cervicale",
+        "name": "rituale antistress schiena",
         "price": 70
       },
       {
@@ -535,11 +535,11 @@
       },
       {
         "name": "idratante multilivello",
-        "price": 60
+        "price": 65
       },
       {
         "name": "pulizia profonda",
-        "price": 65
+        "price": 60
       }
     ]
   }

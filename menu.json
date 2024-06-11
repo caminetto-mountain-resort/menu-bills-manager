@@ -7,12 +7,16 @@
         "price": 1.30
       },
       {
-        "name": "birra media",
-        "price": 5.00
+        "name": "birra",
+        "price": 3.00
       },
       {
-        "name": "birra",
-        "price": 2.50
+        "name": "birra media",
+        "price": 5.50
+      },
+      {
+        "name": "birra grande",
+        "price": 6.50
       },
       {
         "name": "snack",
@@ -28,7 +32,7 @@
       },
       {
         "name": "long drink",
-        "price": 5.50
+        "price": 7.00
       },
       {
         "name": "cappuccino",

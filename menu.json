@@ -93,11 +93,11 @@
       },
       {
         "name": "birra media",
-        "price": 5
+        "price": 5.5
       },
       {
         "name": "birra grande",
-        "price": 6
+        "price": 6.5
       },
       {
         "name": "bevande",
@@ -435,11 +435,11 @@
       {
         "name": "Moscato Giallo - Cantina d'Isera",
         "price": 21
-      }
+      },
       {
         "name": "Castel Beseno - Cantina di Trento",
         "price": 23
-      },
+      }
     ]
   },
   {

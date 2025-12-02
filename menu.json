@@ -470,23 +470,51 @@
         "price": 2
       },
       {
-        "name": "maori",
+        "name": "liftante anti-age",
         "price": 70
       },
       {
-        "name": "sportivo defaticante",
+        "name": "illuminante",
+        "price": 70
+      },      
+      {
+        "name": "idratante",
+        "price": 65
+      },      
+      {
+        "name": "pulizia profonda",
+        "price": 65
+      },
+      {
+        "name": "scrub corpo",
         "price": 60
       },
       {
-        "name": "aromatherapy massage",
-        "price": 55
+        "name": "sensoriale rigenerante",
+        "price": 65
       },
       {
-        "name": "decontratturante schiena o gambe",
-        "price": 40
+        "name": "rilassante cervicale",
+        "price": 70
+      },
+      {
+        "name": "antistress schiena",
+        "price": 70
+      },
+      {
+        "name": "aromatico",
+        "price": 60
       },
       {
         "name": "personalizzato",
+        "price": 65
+      },
+      {
+        "name": "drenante totale",
+        "price": 65
+      },
+      {
+        "name": "con candela",
         "price": 65
       },
       {
@@ -494,60 +522,36 @@
         "price": 65
       },
       {
-        "name": "drenante parziale",
-        "price": 40
-      },
-      {
-        "name": "drenante totale",
-        "price": 65
-      },
-      {
-        "name": "riflessologia plantare",
-        "price": 40
+        "name": "maori",
+        "price": 70
       },
       {
         "name": "hot stone",
         "price": 70
       },
       {
-        "name": "bimbi",
+        "name": "sportivo defaticante",
+        "price": 60
+      },
+      {
+        "name": "bimbi delicato",
         "price": 30
       },
       {
-        "name": "viso, collo e spalle",
+        "name": "decontratturante short",
         "price": 40
       },
       {
-        "name": "cielo e terra",
+        "name": "drenante gambe",
         "price": 40
       },
       {
-        "name": "esfoliante aromatico",
-        "price": 55
+        "name": "viso collo spalle",
+        "price": 40
       },
       {
-        "name": "detossinante",
-        "price": 65
-      },
-      {
-        "name": "rituale antistress schiena",
-        "price": 70
-      },
-      {
-        "name": "liftante intensivo anti age",
-        "price": 70
-      },
-      {
-        "name": "illuminante",
-        "price": 70
-      },
-      {
-        "name": "idratante multilivello",
-        "price": 65
-      },
-      {
-        "name": "pulizia profonda",
-        "price": 60
+        "name": "riflessologia plantare",
+        "price": 40
       }
     ]
   }

@@ -60,7 +60,7 @@
       },
       {
         "name": "dolci",
-        "price": 3.50
+        "price": 4
       },
       {
         "name": "vino",
@@ -97,19 +97,19 @@
       },
       {
         "name": "birra",
-        "price": 3
+        "price": 3.5
       },
       {
         "name": "birra media",
-        "price": 5.5
+        "price": 6
       },
       {
         "name": "birra grande",
-        "price": 6.5
+        "price": 7
       },
       {
         "name": "bevande",
-        "price": 3
+        "price": 3.5
       },
       {
         "name": "calice vino",

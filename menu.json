@@ -4,7 +4,7 @@
     "products": [
       {
         "name": "caffè",
-        "price": 1.30
+        "price": 1.40
       },
       {
         "name": "birra",
@@ -12,7 +12,7 @@
       },
       {
         "name": "birra media",
-        "price": 5.50
+        "price": 6.00
       },
       {
         "name": "birra grande",
@@ -28,7 +28,7 @@
       },
       {
         "name": "specialità",
-        "price": 3.50
+        "price": 4.00
       },
       {
         "name": "long drink",
@@ -36,7 +36,7 @@
       },
       {
         "name": "cappuccino",
-        "price": 2.00
+        "price": 2.20
       },
       {
         "name": "cioccolata calda",
@@ -80,7 +80,7 @@
       },
       {
         "name": "spritz",
-        "price": 4
+        "price": 4.50
       }
     ]
   },

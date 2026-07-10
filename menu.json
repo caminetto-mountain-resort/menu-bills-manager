@@ -158,99 +158,95 @@
     "products": [
       {
         "name": "St. Magdalener - Rottensteiner",
-        "price": 30
-      },
-      {
-        "name": "St. Magdalener select - Rottensteiner",
-        "price": 40
-      },
-      {
-        "name": "Kalterersee Auslese - Rottensteiner",
-        "price": 21
-      },
-      {
-        "name": "Marzemino Mozart - Concilio",
-        "price": 20
-      },
-      {
-        "name": "Marzemino et. bianca - Cantina d'Isera",
-        "price": 20
-      },
-      {
-        "name": "Marzemino et. verde - Cantina d'Isera ",
-        "price": 25
-      },
-      {
-        "name": "Marzemino Sup. - Maso Salengo",
-        "price": 27
-      },
-      {
-        "name": "Teroldego LeAlbere - Zeni",
-        "price": 30
-      },
-      {
-        "name": "Teroldego 75cl Firmian - Mezzocorona",
-        "price": 20
-      },
-      {
-        "name": "Teroldego 35cl Firmian - Mezzocorona",
-        "price": 12
-      },
-      {
-        "name": "Teroldego Riserva - Mezzocorona",
-        "price": 30
-      },
-      {
-        "name": "Rebo - Maso Salengo",
-        "price": 28
-      },
-      {
-        "name": "Lagrein Riserva - Rottensteiner",
-        "price": 30
-      },
-      {
-        "name": "Lagrein Riserva - Mezzocorona",
-        "price": 30
-      },
-      {
-        "name": "Navesel - Simoncelli",
         "price": 31
       },
       {
-        "name": "Nomer - Grigoletti",
+        "name": "Kalterersee Auslese - Rottensteiner",
+        "price": 22
+      },
+      {
+        "name": "Marzemino Mozart - Concilio",
         "price": 21
       },
       {
-        "name": "Merlot Antica Vigna - Grigoletti",
-        "price": 33
+        "name": "Marzemino et. bianca - Cantina d'Isera",
+        "price": 21
       },
       {
-        "name": "Gonzalier - Grigoletti",
-        "price": 38
+        "name": "Marzemino et. verde - Cantina d'Isera ",
+        "price": 26
       },
       {
-        "name": "Mori Vecio - Concilio",
-        "price": 33
-      },
-      {
-        "name": "Pinot Nero 75cl - Pojer e Sandri",
+        "name": "Marzemino Sup. - Maso Salengo",
         "price": 28
       },
       {
-        "name": "Pinot Nero 35cl - Pojer e Sandri",
-        "price": 18
+        "name": "Teroldego LeAlbere - Zeni",
+        "price": 31
       },
       {
-        "name": "Pinot Nero Monkner - Concilio",
+        "name": "Teroldego 75cl Firmian - Mezzocorona",
         "price": 21
       },
       {
-        "name": "Valdadige Riserva - Viticoltori di Avio",
+        "name": "Teroldego 35cl Firmian - Mezzocorona",
+        "price": 13
+      },
+      {
+        "name": "Teroldego Riserva - Mezzocorona",
+        "price": 31
+      },
+      {
+        "name": "Rebo - Maso Salengo",
+        "price": 29
+      },
+      {
+        "name": "Lagrein Riserva - Rottensteiner",
+        "price": 31
+      },
+      {
+        "name": "Lagrein Riserva - Mezzocorona",
+        "price": 31
+      },
+      {
+        "name": "Navesel - Simoncelli",
+        "price": 32
+      },
+      {
+        "name": "Nomer - Grigoletti",
+        "price": 22
+      },
+      {
+        "name": "Merlot Antica Vigna - Grigoletti",
+        "price": 34
+      },
+      {
+        "name": "Gonzalier - Grigoletti",
+        "price": 39
+      },
+      {
+        "name": "Mori Vecio - Concilio",
+        "price": 34
+      },
+      {
+        "name": "Pinot Nero 75cl - Pojer e Sandri",
         "price": 30
       },
       {
+        "name": "Pinot Nero 35cl - Pojer e Sandri",
+        "price": 19
+      },
+      {
+        "name": "Pinot Nero Monkner - Cantina di Trento",
+        "price": 22
+      },
+      {
+        "name": "Valdadige Riserva - Viticoltori di Avio",
+        "price": 31
+      },
+      {
         "name": "Valdadige - Viticoltori di Avio",
-        "price": 21
+        "price": 22
       },
       {
         "name": "San Leonardo",
@@ -258,15 +254,15 @@
       },
       {
         "name": "Lagrein Knott - Concilio",
-        "price": 20
+        "price": 21
       },
       {
         "name": "Terre Noce - Mezzocorona",
         "price": 14
       },
       {
-        "name": "Barbera - Baracco de Baracho",
-        "price": 25
+        "name": "Barbera - Virna Borgogno",
+        "price": 26
       },
       {
         "name": "Amarone - Brigaldara",
@@ -274,15 +270,15 @@
       },
       {
         "name": "Bardolino - Giovanna Tantini",
-        "price": 20
+        "price": 21
       },
       {
         "name": "Refosco - Tenuta Pinni",
-        "price": 20
+        "price": 21
       },
       {
         "name": "Morellino di Scansano - Provveditore",
-        "price": 27
+        "price": 28
       },
       {
         "name": "Chianti BIO - La Lastra",
@@ -294,75 +290,83 @@
       },
       {
         "name": "Pinot Noir - Saget La Perrièr",
-        "price": 23
+        "price": 24
       },
       {
         "name": "Bordeaux - Chateau Sainte-Marie",
-        "price": 31
+        "price": 32
       },
       {
         "name": "L'Opera - Grigoletti",
-        "price": 26
-      },
-      {
-        "name": "Chardonnay Heredia - Cantina Sociale di Trento",
-        "price": 21
-      },
-      {
-        "name": "Riesling Renano - Pelz",
-        "price": 28
-      },
-      {
-        "name": "Sylvaner - Villscheider",
-        "price": 28
-      },
-      {
-        "name": "Retiko - Grigoletti",
-        "price": 28
-      },
-      {
-        "name": "Muller Palai 75 cl - Pojer e Sandri",
-        "price": 26
-      },
-      {
-        "name": "Muller Palai 35 cl - Pojer e Sandri",
-        "price": 15
-      },
-      {
-        "name": "Muller Thurgau - Concilio",
-        "price": 20
-      },
-      {
-        "name": "Gewurztraminer Khopfler- Cantina di Trento",
-        "price": 25
-      },
-      {
-        "name": "Gewurztraminer Goccia d'oro - Cantina Sociale di Trento",
-        "price": 25
-      },
-      {
-        "name": "Traminer Aromatico - Pojer e Sandri",
-        "price": 30
-      },
-      {
-        "name": "Pinot Grigio Ramato - Pravis",
-        "price": 22
-      },
-      {
-        "name": "Fil di rose P. Grigio Rose - Mezzocorona",
-        "price": 20
-      },
-      {
-        "name": "Pinot Grigio - Concilio",
-        "price": 20
-      },
-      {
-        "name": "Pinot Grigio Riserva - Mezzocorona",
         "price": 27
       },
       {
-        "name": "Nosiola - Pojer e Sandri",
+        "name": "Chardonnay Heredia - Cantina Sociale di Trento",
+        "price": 22
+      },
+      {
+        "name": "Riesling Renano - Pelz",
+        "price": 29
+      },
+      {
+        "name": "Sylvaner - Villscheider",
+        "price": 29
+      },
+      {
+        "name": "Retiko - Grigoletti",
+        "price": 29
+      },
+      {
+        "name": "Muller Palai 75 cl - Pojer e Sandri",
+        "price": 27
+      },
+      {
+        "name": "Muller Palai 35 cl - Pojer e Sandri",
+        "price": 16
+      },
+      {
+        "name": "Muller Thurgau - Campirlota Cembra",
+        "price": 30
+      },
+      {
+        "name": "Muller Thurgau - Cantina di Trento",
+        "price": 21
+      },
+      {
+        "name": "Gewurztraminer Khopfler- Cantina di Trento",
+        "price": 26
+      },
+      {
+        "name": "Gewurztraminer Goccia d'oro - Cantina Sociale di Trento",
+        "price": 26
+      },
+      {
+        "name": "Traminer Aromatico - Pojer e Sandri",
+        "price": 31
+      },
+      {
+        "name": "Pinot Grigio Ramato - Pravis",
         "price": 23
+      },
+      {
+        "name": "Fil di rose P. Grigio Rose - Mezzocorona",
+        "price": 21
+      },
+      {
+        "name": "Pinot Grigio 75 cl - Mezzocorona",
+        "price": 21
+      },
+      {
+        "name": "Pinot Grigio 35 cl - Mezzocorona",
+        "price": 13
+      },
+      {
+        "name": "Pinot Grigio Riserva - Mezzocorona",
+        "price": 28
+      },
+      {
+        "name": "Nosiola - Pojer e Sandri",
+        "price": 25
       },
       {
         "name": "Terre del Noce - Mezzocorona",
@@ -370,31 +374,31 @@
       },
       {
         "name": "Soave Classico - Le Battistelle",
-        "price": 24
+        "price": 25
       },
       {
         "name": "Friuliano Collio - Simon Komjanc",
-        "price": 22
+        "price": 23
       },
       {
         "name": "Blanc de Morgex de la Salle - Cave Mont Blanc",
-        "price": 27
+        "price": 28
       },
       {
         "name": "Lagrein Rosé - Rottensteiner",
-        "price": 24
+        "price": 25
       },
       {
         "name": "Lagrein Rosato - Castel Firmian",
-        "price": 21
-      },
-      {
-        "name": "Vin dei Molini - Pojer e Sandri",
         "price": 22
       },
       {
+        "name": "Vin dei Molini - Pojer e Sandri",
+        "price": 23
+      },
+      {
         "name": "Bardolino Chiaretto - Giovanna Tantini",
-        "price": 20
+        "price": 21
       },
       {
         "name": "Perlè - Ferrari",
@@ -402,51 +406,55 @@
       },
       {
         "name": "Cuvee Brut - Rotari",
-        "price": 30
+        "price": 31
       },
       {
         "name": "Zell Brut - Cantina di Trento",
-        "price": 37
+        "price": 38
       },
       {
         "name": "Rosé - Pojer e Sandri",
-        "price": 40
+        "price": 45
       },
       {
         "name": "TrentoDoc 1907 - Cantina d'Isera",
-        "price": 30
+        "price": 31
       },
       {
         "name": "TrentoDoc 601 - Concilio",
-        "price": 28
+        "price": 29
       },
       {
         "name": "Prosecco - Valdobbiadene",
         "price": 22
       },
       {
-        "name": "Lilium - Concilio",
-        "price": 20
+        "name": "Lilium - Cantina di Trento",
+        "price": 22
       },
       {
         "name": "Prime Rose - Cavit",
-        "price": 20
+        "price": 21
       },
       {
-        "name": "Lambrusco - Barbolin",
-        "price": 21
+        "name": "Lambrusco - La Piana",
+        "price": 22
       },
       {
         "name": "San Martin - Grigoletti",
-        "price": 27
+        "price": 30
       },
       {
         "name": "Moscato Giallo - Cantina d'Isera",
-        "price": 21
+        "price": 22
       },
       {
         "name": "Castel Beseno - Cantina di Trento",
-        "price": 23
+        "price": 24
+      }
+      {
+        "name": "Passito 907 - Cantina d'Isera",
+        "price": 30
       }
     ]
   },
